@@ -1,0 +1,8 @@
+{
+    "name": "device-seller",
+    "build": [
+        {
+            "url": "heroku/nodejs"
+        }
+    ]
+}
