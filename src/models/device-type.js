@@ -1,8 +1,10 @@
 const DeviceType = {
-    LAPTOP: 'LAPTOP',
-    DESKTOP: 'DESKTOP',
-    PHONE: 'PHONE',
-    TABLET: 'TABLET',
+  ENGLISH: "LAPTOP",
+  SCIENCE: "DESKTOP",
+  SOFTWARE: "PHONE",
+  COMPUTER: "TABLET",
+  INFORMATION: "INFORMATION",
+  UIUX: "UI/UX",
 };
 
 export default DeviceType;
